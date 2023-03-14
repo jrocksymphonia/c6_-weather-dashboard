@@ -1,1 +1,1 @@
-# c6_-weather-dashboard
+# c6_weather-dashboard
